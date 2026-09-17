@@ -1,0 +1,1 @@
+My first Java project. An admin picks what fills the jar (jelly beans, marbles, whatever) and sets a max amount, then the jar gets filled with a random number of items. The player has to guess how many are actually inside.
